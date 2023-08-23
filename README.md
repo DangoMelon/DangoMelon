@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### 💫 About Me:
 🎓 PhD Student in Atmospheric Sciences<br>🌎 Interested in ENSO research<br>🐍 Python & Tech junkie<br>👓 Trying to learn web dev<br>⚡ Not a melon IRL
-
+<!--
 ### 📊 Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dangomelon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
